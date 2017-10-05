@@ -1,0 +1,23 @@
+{
+  "name": "06-greatbay",
+  "version": "1.0.0",
+  "description": "InClass Week-7 06-GreatBay",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpeteet/06-GreatBay.git"
+  },
+  "author": "Larry S. Peteet and Mario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpeteet/06-GreatBay/issues"
+  },
+  "homepage": "https://github.com/lpeteet/06-GreatBay#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "mysql": "^2.14.1"
+  }
+}
